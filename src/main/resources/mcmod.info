@@ -1,0 +1,16 @@
+[
+{
+  "modid": "atdm",
+  "name": "Tower Defense",
+  "description": "The base Tower Defense for the later added AI agent",
+  "version": "${1.0}",
+  "mcversion": "${1.12.2}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ayanami_"],
+  "credits": "The Forge and FML guys, and Loremaster for the tutorial video!",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
